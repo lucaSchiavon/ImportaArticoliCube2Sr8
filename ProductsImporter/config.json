@@ -1,0 +1,9 @@
+{
+  "DefaultValues": {
+    "lc_conto": 0,
+    "lc_listino": 100,
+    "ar_unmis": "PZ",
+    "ar_codiva": "31",
+    "codditt": "EMMEBISRL"
+  }
+}
